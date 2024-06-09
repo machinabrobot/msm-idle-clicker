@@ -12,7 +12,6 @@ Settings
   background:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/gradient_background.jpg
   building cost increase:115%
   building cost refund:50%
-  stylesheet:stuff/bigBlue.css
 
 Layout
   *resources
