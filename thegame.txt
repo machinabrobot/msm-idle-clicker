@@ -18,6 +18,11 @@ CSS
     background:skyblue;
     font-family:"Comic Sans MS",sans-serif;
   }
+  .thing-icon,.particle
+  {
+    width:64px;
+    height:64px;
+  }
   .thing-icon #coin
   {
     width:44px;
