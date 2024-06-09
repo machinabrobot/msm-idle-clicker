@@ -109,8 +109,12 @@ Upgrades
 Achievements
   *10Clicks
     name:10 Clicks
-    desc:10 clicks yeah
+    desc:10 clicks yeah.
     req:10 giantCoin:clicks
+  *144Clicks
+    name:144 Clicks?
+    desc:What an oddly specific number.
+    req:144 giantCoin:clicks
   *9millionCoins
     name:Get a life...
     desc:You heard me, go touch grass please.
