@@ -26,14 +26,20 @@ Buttons
     class:bigButton
     icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/leCoin.png
     show clicks
-    (giantCoin:clicks)
     no text
 
 Buildings
-  *singing
-    name:Singing
+  *monSingle
+    name:Single Elemental
     desc:The sole act of singing allows your monsters to produce coins!
     icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/musical-note_1f3b5.png
     cost:100 coin
     on tick:yield 1 coin
     unlocked
+  *monDouble
+    name:Double Elemental
+    desc:The sole act of singing allows your monsters to produce coins!
+    icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/musical-note_1f3b5.png
+    cost:3000 coin
+    req:1000 coin
+    on tick:yield 5 coin
