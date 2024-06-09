@@ -18,10 +18,11 @@ CSS
     background:skyblue;
     font-family:"Comic Sans MS",sans-serif;
   }
-  .thing-icon {
-    background-repeat: no-repeat;
+  .thing-icon,.particle
+  {
+    width:64px;
+    height:64px;
   }
-
 Layout
   *main
     contains:res, buttons
