@@ -21,7 +21,7 @@ Resources
 Buttons
   *giantCoin
     name:Giant coin
-    desc:Click it, I know you want free moneys.
+    desc:Click it, I know you want free moneys...
     on click:yield 1 coin
     class:bigButton
     icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/musical-note_BUTTON.png
