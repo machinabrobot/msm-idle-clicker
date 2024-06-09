@@ -32,6 +32,9 @@ Layout
       header:Upgrades
       costs:hide
       names:hide
+  *achievs
+    in:main
+    contains:Achievements
 
 Resources
   *coin
