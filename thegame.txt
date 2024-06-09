@@ -60,6 +60,7 @@ Resources
   *treat
     name:Treats
     desc:Every monster's favorite food!
+	icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/leTreatIcon.png
 
 Buttons
   *giantCoin
