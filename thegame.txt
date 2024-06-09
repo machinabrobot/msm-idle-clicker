@@ -14,16 +14,24 @@ Settings
   building cost refund:50%
 
 Layout
-  *resources
-    contains:Resources
-    header:These are your resources.
-  *buildings
-    contains:Buildings
-    header:These are things you can build.
-    tooltip origin:left
-  *unlockables
-    contains:Upgrades, Achievements
-    names:hide
+  *main
+    contains:res, buttons
+    *res
+      contains:Resources
+      class:fullWidth
+    *buttons
+      contains:Buttons
+  *store
+    contains:buildings, upgrades
+    *buildings
+      contains:BulkDisplay, Buildings
+      header:Buildings
+      tooltip origin:left
+    *upgrades
+      contains:Upgrades
+      header:Upgrades
+      costs:hide
+      names:hide
 
 Resources
   *coin
