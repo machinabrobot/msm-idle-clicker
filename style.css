@@ -7,17 +7,6 @@
 	text-shadow:none;
 }
 
-.thing-icon,.particle
-{
-  width:64px;
-  height:64px;
-}
-
-#game.filtersOn .thing.cantAfford.notOwned
-{
-  filter:blur(3px);
-}
-
 .box
 {
 	text-align:center;
