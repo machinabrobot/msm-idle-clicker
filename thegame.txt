@@ -12,23 +12,6 @@ Settings
   building cost increase:115%
   building cost refund:50%
   stylesheet:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/style.css
-
-CSS
-  #game
-  {
-    background:skyblue;
-    font-family:"Comic Sans MS",sans-serif;
-  }
-  .thing-icon,.particle
-  {
-    width:64px;
-    height:64px;
-  }
-  }
-  #game.filtersOn .thing.cantAfford.notOwned
-  {
-    filter:blur(3px);
-  }
   
 Layout
   *main

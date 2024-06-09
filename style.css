@@ -1,11 +1,22 @@
 ﻿#game
 {
-	background:#fff;
+    background:skyblue;
+    font-family:"Comic Sans MS",sans-serif;
 	font-size:12px;
 	color:rgba(0,0,0,0.9);
 	text-shadow:none;
 }
 
+.thing-icon,.particle
+{
+  width:64px;
+  height:64px;
+}
+
+#game.filtersOn .thing.cantAfford.notOwned
+{
+  filter:blur(3px);
+}
 
 .box
 {
