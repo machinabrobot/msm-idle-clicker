@@ -3,7 +3,7 @@
 Let's make a game!
   name:MSM Idle Clicker
   author:Machinabot
-  desc:BBB please don't sue me 🙏
+  desc:BBB please don't sue me :(
   created:08/06/2024
   updated:08/06/2024
   version:0.1
