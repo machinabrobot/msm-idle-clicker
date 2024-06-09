@@ -27,6 +27,10 @@ Resources
     name:Treats
     desc:Every monster's favorite food!
 	icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/leTreatIcon.png
+  *relic
+    name:Relics
+    desc:A note... becomes... a monster!
+	icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/leRelicIcon.png
 
 Buttons
   *giantCoin
@@ -35,6 +39,14 @@ Buttons
     on click:yield 1 coin
     class:bigButton
     icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/leCoin.png
+    show clicks
+    no text
+  *giantRelic
+    name:Giant relic
+    desc:placeholder
+    on click:yield 1 relic
+    class:bigButton
+    icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/lerelic.png
     show clicks
     no text
 
@@ -81,6 +93,12 @@ Upgrades
     icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/musical-note_1f3b5.png
     passive:multiply yield of giantCoin by 3
     cost:300 treat
+*werdos
+    name:Werdos
+    desc:They do not actually speak english but the relics allow them to kind of sing english words.
+    icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/musical-note_1f3b5.png
+    passive:show giantRelic
+    cost:50000 coin
 
 /* *jeffrey
     name:Jeffrey
