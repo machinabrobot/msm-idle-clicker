@@ -63,21 +63,18 @@ Buildings
     desc:placeholder
     icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/musical-note_1f3b5.png
     cost:3000 coin
-    req:600 coin
     on tick:yield 5 coin
   *monTriple
     name:Triple Elemental
     desc:placeholder
     icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/musical-note_1f3b5.png
     cost:15000 coin
-    req:6000 coin
     on tick:yield 36 coin
   *bakerySmall
     name:Small Bakery
     desc:placeholder
     icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/musical-note_1f3b5.png
     cost:2950 coin
-    req:2000 coin
     on tick:yield 5 treat
 
 Upgrades
