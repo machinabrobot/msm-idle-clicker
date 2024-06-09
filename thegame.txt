@@ -13,6 +13,12 @@ Settings
   building cost increase:115%
   building cost refund:50%
   stylesheet:stuff/bigBlue.css
+
+CSS
+  .fixSize {
+    width: 128px !important;
+  }
+
 Resources
   *coin
     name:Coin
@@ -22,7 +28,7 @@ Buttons
     name:Giant coin
     desc:just click.
     on click:yield 1 coin
-    class:bigButton
+    class:bigButton fixSize
     icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/musical-note_BIG.png
     no text
 
