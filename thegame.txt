@@ -88,13 +88,13 @@ Upgrades
     icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/musical-note_1f3b5.png
     passive:multiply yield of giantCoin by 3
     cost:300 treat
-*werdos
+/**werdos
     name:Werdos
     desc:They do not actually speak english but the relics allow them to kind of sing english words.
     icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/musical-note_1f3b5.png
     passive:show giantRelic
     cost:50000 coin
-
+*/
 /* *jeffrey
     name:Jeffrey
     desc:Don't mind him, he just appeared here so um...
