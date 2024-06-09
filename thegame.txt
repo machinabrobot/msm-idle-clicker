@@ -107,3 +107,9 @@ Upgrades
     req:9000000 coin
     cost:1000000 coin
 */
+
+Achievements
+  *9millionCoins
+    name:Get a life...
+    desc:You heard me, go touch grass please
+    req:9999999 coin
