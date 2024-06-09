@@ -23,7 +23,7 @@ CSS
     width:64px;
     height:64px;
   }
-  .thing-icon #coin
+  #thing-icon-0
   {
     width:44px;
     height:56px;
