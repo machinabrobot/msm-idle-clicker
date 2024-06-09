@@ -9,9 +9,15 @@ Let's make a game!
   version:0.1
 
 Settings
-  background:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/gradient_background.jpg
   building cost increase:115%
   building cost refund:50%
+
+CSS
+  #game
+  {
+    background:skyblue;
+    font-family:"Comic Sans MS",sans-serif;
+  }
 
 Layout
   *main
