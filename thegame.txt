@@ -15,7 +15,7 @@ Settings
   stylesheet:stuff/bigBlue.css
 
 Layout
-    *resources
+  *resources
     contains:Resources
     header:These are your resources.
   *buildings
