@@ -46,7 +46,7 @@ Buttons
     desc:placeholder
     on click:yield 1 relic
     class:bigButton
-    icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/lerelic.png
+    icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/leRelic.png
     show clicks
     no text
 
