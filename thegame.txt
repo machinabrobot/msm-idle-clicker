@@ -18,6 +18,9 @@ CSS
     background:skyblue;
     font-family:"Comic Sans MS",sans-serif;
   }
+  .thing-icon {
+    background-repeat: no-repeat;
+  }
 
 Layout
   *main
