@@ -50,3 +50,11 @@ Buildings
     cost:15000 coin
     req:6000 coin
     on tick:yield 36 coin
+
+Upgrades
+  *jeffrey
+    name:Jeffrey
+    desc:Don't mind him, he just appeared here so um...
+    icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/musical-note_1f3b5.png
+    passive:multiply yield of giantCoin by 2
+    cost:500 coin
