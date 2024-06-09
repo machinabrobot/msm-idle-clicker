@@ -3,7 +3,7 @@
 Let's make a game!
   name:MSM Idle Clicker
   author:Machinabot
-  desc:BBB please don't sue me 🙏
+  desc:BBB please don't sue me :(
   created:08/06/2024
   updated:08/06/2024
   version:0.1
@@ -14,16 +14,27 @@ Settings
   building cost refund:50%
 
 Layout
-  *resources
-    contains:Resources
-    header:These are your resources.
-  *buildings
-    contains:Buildings
-    header:These are things you can build.
-    tooltip origin:left
-  *unlockables
-    contains:Upgrades, Achievements
-    names:hide
+  *main
+    contains:res, buttons
+    *res
+      contains:Resources
+      class:fullWidth
+    *buttons
+      contains:Buttons
+  *store
+    contains:buildings, upgrades
+    *buildings
+      contains:BulkDisplay, Buildings
+      header:Buildings
+      tooltip origin:left
+    *upgrades
+      contains:Upgrades
+      header:Upgrades
+      costs:hide
+      names:hide
+  *achievs
+    in:main
+    contains:Achievements
 
 Resources
   *coin
@@ -57,7 +68,7 @@ Buildings
     desc:placeholder
     icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/musical-note_1f3b5.png
     cost:3000 coin
-    req:1000 coin
+    req:600 coin
     on tick:yield 5 coin
   *monTriple
     name:Triple Elemental
@@ -96,3 +107,9 @@ Upgrades
     req:9000000 coin
     cost:1000000 coin
 */
+
+Achievements
+  *9millionCoins
+    name:Get a life...
+    desc:You heard me, go touch grass please
+    req:9999999 coin
