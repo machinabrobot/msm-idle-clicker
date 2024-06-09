@@ -75,7 +75,7 @@ Upgrades
     desc:Good ol' cookies made with granny's recipe... Wait, who's granny are we talking here?
     icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/musical-note_1f3b5.png
     passive:multiply yield of giantCoin by 3
-    cost:50 treat
+    cost:300 treat
 
 /* *jeffrey
     name:Jeffrey
