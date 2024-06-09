@@ -24,7 +24,7 @@ Buttons
     desc:Click it, I know you want free moneys...
     on click:yield 1 coin
     class:bigButton
-    icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/musical-note-BUTTON.png
+    icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/leCoin.png
     no text
 
 Buildings
