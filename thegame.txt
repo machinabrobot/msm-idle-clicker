@@ -1,0 +1,36 @@
+// hello gamers, look at this source code!
+// THIS IS THE TESTING ONLY SOURCE CODE!!!!!!!
+Let's make a game!
+  name:MSM Idle Clicker
+  author:Machinabot
+  desc:BBB please don't sue me 🙏
+  created:08/06/2024
+  updated:08/06/2024
+  version:0.1
+
+Settings
+  background:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/gradient_background.jpg
+  building cost increase:115%
+  building cost refund:50%
+  stylesheet:stuff/bigBlue.css
+Resources
+  *coin
+    name:Coin
+    desc:The universal currency of the Monster World.
+Buttons
+  *giantCoin
+    name:Giant coin
+    desc:just click.
+    on click:yield 1 coin
+    class:bigButton
+    icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/musical-note_BIG.png
+    no text
+
+Buildings
+  *singing
+    name:Singing
+    desc:The sole act of singing allows your monsters to produce coins!
+    icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/musical-note_1f3b5.png
+    cost:100 coin
+    on tick:yield 1 coin
+    unlocked
