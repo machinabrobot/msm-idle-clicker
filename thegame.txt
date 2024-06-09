@@ -14,16 +14,6 @@ Settings
   building cost refund:50%
   stylesheet:stuff/bigBlue.css
 
-CSS
-  .bigButton {
-    width: 128px !important;
-  }
-
-    #game.filtersOn .thing.cantAfford.notOwned
-  {
-    filter:blur(3px);
-  }
-
 Resources
   *coin
     name:Coin
