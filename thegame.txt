@@ -24,7 +24,7 @@ Buttons
     desc:just click.
     on click:yield 1 coin
     class:bigButton
-    icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/musical-note_BIG.png
+    icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/musical-note_BUTTON.png
     no text
 
 Buildings
