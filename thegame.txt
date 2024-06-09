@@ -11,7 +11,7 @@ Let's make a game!
 Settings
   building cost increase:115%
   building cost refund:50%
-  stylesheet:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/style.css
+  stylesheet:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/style.txt
   
 Layout
   use default
