@@ -25,6 +25,8 @@ Buttons
     on click:yield 1 coin
     class:bigButton
     icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/leCoin.png
+    show clicks
+    (giantCoin:clicks)
     no text
 
 Buildings
