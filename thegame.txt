@@ -41,11 +41,11 @@ Buttons
     icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/leCoin.png
     show clicks
     no text
+    on click:anim glow
   *giantRelic
     name:Giant relic
     desc:placeholder
     on click:yield 1 relic
-    class:bigButton
     icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/leRelic.png
     show clicks
     no text
