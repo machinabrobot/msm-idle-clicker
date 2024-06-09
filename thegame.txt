@@ -40,7 +40,7 @@ Resources
   *coin
     name:Coins
     desc:The universal currency of the Monster World.
-    icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/leCoin.png
+    icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/leCoinIcon.png
   *treat
     name:Treats
     desc:Every monster's favorite food!
