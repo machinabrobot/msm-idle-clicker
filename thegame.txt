@@ -16,8 +16,13 @@ Settings
 
 Resources
   *coin
-    name:Coin
+    name:Coins
     desc:The universal currency of the Monster World.
+    icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/leCoin.png
+  *treat
+    name:Treats
+    desc:Every monster's favorite food!
+
 Buttons
   *giantCoin
     name:Giant coin
@@ -50,11 +55,33 @@ Buildings
     cost:15000 coin
     req:6000 coin
     on tick:yield 36 coin
+  *bakerySmall
+    name:Small Bakery
+    desc:placeholder
+    icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/musical-note_1f3b5.png
+    cost:2950 coin
+    req:2000 coin
+    on tick:yield 5 treat
 
 Upgrades
-  *jeffrey
+  *cupcakes
+    name:Cupcakes
+    desc:Not very fulfilling but good enough for a little snack
+    icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/musical-note_1f3b5.png
+    passive:multiply yield of giantCoin by 2
+    cost:50 treat
+  *cookies
+    name:Cookies
+    desc:Good ol' cookies made with granny's recipe... Wait, who's granny are we talking here?
+    icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/musical-note_1f3b5.png
+    passive:multiply yield of giantCoin by 3
+    cost:50 treat
+
+/* *jeffrey
     name:Jeffrey
     desc:Don't mind him, he just appeared here so um...
     icon:https://raw.githubusercontent.com/machinabrobot/msm-idle-clicker/main/musical-note_1f3b5.png
-    passive:multiply yield of giantCoin by 2
-    cost:500 coin
+    passive:multiply yield of giantCoin by 500
+    req:9000000 coin
+    cost:1000000 coin
+*/
