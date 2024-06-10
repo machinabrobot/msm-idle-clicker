@@ -1,5 +1,5 @@
 #game
 {
   background:cornflowerblue;
-  font-family:"Comic Sans MS",sans-serif;
-}
+  font-family: gameFont;
+  src: url(https://github.com/machinabrobot/msm-idle-clicker/raw/main/OpenDyslexic3-Regular.ttf);}
