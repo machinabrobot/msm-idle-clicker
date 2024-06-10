@@ -4,9 +4,11 @@
 }
 #thing-3
 {
-  left:25%;
+  top:40%
+  left:5%;
 }
 #thing-4
 {
-  right:25%;
+  top:40%
+  right:35%;
 }
