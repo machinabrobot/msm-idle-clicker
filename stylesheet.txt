@@ -1,8 +1,4 @@
- @font-face {
-  font-family: gameFont;
-  src: url(https://github.com/machinabrobot/msm-idle-clicker/raw/main/OpenDyslexic3-Regular.ttf);
-} 
 #game
 {
   background:cornflowerblue;
-  font-family: gameFont;
+  font-family: OpenDyslexic3;
