@@ -1,0 +1,5 @@
+#game
+{
+  background:cornflowerblue;
+  font-family:"Comic Sans MS",sans-serif;
+}
