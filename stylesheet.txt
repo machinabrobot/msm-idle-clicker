@@ -2,12 +2,12 @@
 {
   background:cornflowerblue;
 }
-#thing-3
+#box-giantCoinBox
 {
   top:40%
   left:5%;
 }
-#thing-4
+#box-giantRelicBox
 {
   top:40%
   right:35%;
