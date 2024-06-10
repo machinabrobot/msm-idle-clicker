@@ -1,6 +1,6 @@
 #game
 {
-  background:cornflowerblue;
+  background:skyblue;
 }
 #box-giantCoinBox
 {
