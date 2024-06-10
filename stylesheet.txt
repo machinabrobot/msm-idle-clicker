@@ -1,4 +1,12 @@
 #game
 {
   background:cornflowerblue;
-  font-family: OpenDyslexic3;
+}
+#thing-3
+{
+  left:25%;
+}
+#thing-4
+{
+  right:25%;
+}
